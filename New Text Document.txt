@@ -1,0 +1,4 @@
+the book
+https://www.oreilly.com/data/free/learning-sparql-2ed-sample-marklogic.pdf
+
+http://www.learningsparql.com/
